@@ -1,0 +1,128 @@
+[
+  {
+    "module": "m3",
+    "section": "m3-f2",
+    "blockIndex": 0,
+    "sectionTitle": "Exploding Gradients and Gradient Clipping",
+    "filename": "m3-f2-b0.ipynb"
+  },
+  {
+    "module": "m4",
+    "section": "m4-f3",
+    "blockIndex": 0,
+    "sectionTitle": "Deep RNNs and When to Stack Layers",
+    "filename": "m4-f3-b0.ipynb"
+  },
+  {
+    "module": "m5",
+    "section": "m5-e2",
+    "blockIndex": 0,
+    "sectionTitle": "Training a Character-Level Language Model",
+    "filename": "m5-e2-b0.ipynb"
+  },
+  {
+    "module": "m6",
+    "section": "m6-f3",
+    "blockIndex": 0,
+    "sectionTitle": "Using Pretrained Embeddings",
+    "filename": "m6-f3-b0.ipynb"
+  },
+  {
+    "module": "m8",
+    "section": "m8-f1",
+    "blockIndex": 0,
+    "sectionTitle": "Sentiment Classification with Embeddings",
+    "filename": "m8-f1-b0.ipynb"
+  },
+  {
+    "module": "m9",
+    "section": "m9-fl1",
+    "blockIndex": 0,
+    "sectionTitle": "Build: Seq2Seq Date Formatter",
+    "filename": "m9-fl1-b0.ipynb"
+  },
+  {
+    "module": "m11",
+    "section": "m11-fl1",
+    "blockIndex": 0,
+    "sectionTitle": "Build: Attention-Enhanced Seq2Seq",
+    "filename": "m11-fl1-b0.ipynb"
+  },
+  {
+    "module": "m13",
+    "section": "m13-f1",
+    "blockIndex": 0,
+    "sectionTitle": "Queries, Keys, Values, and Scaled Dot-Product",
+    "filename": "m13-f1-b0.ipynb"
+  },
+  {
+    "module": "m13",
+    "section": "m13-e2",
+    "blockIndex": 0,
+    "sectionTitle": "Multi-Head Attention: Many Perspectives at Once",
+    "filename": "m13-e2-b0.ipynb"
+  },
+  {
+    "module": "m13",
+    "section": "m13-e3",
+    "blockIndex": 0,
+    "sectionTitle": "The Transformer Block: Attention + FFN + Residuals",
+    "filename": "m13-e3-b0.ipynb"
+  },
+  {
+    "module": "m13",
+    "section": "m13-f3",
+    "blockIndex": 0,
+    "sectionTitle": "Encoder Stack, Decoder Stack, and Masked Attention",
+    "filename": "m13-f3-b0.ipynb"
+  },
+  {
+    "module": "m14",
+    "section": "m14-f1",
+    "blockIndex": 0,
+    "sectionTitle": "Masked Language Modelling",
+    "filename": "m14-f1-b0.ipynb"
+  },
+  {
+    "module": "m14",
+    "section": "m14-f2",
+    "blockIndex": 0,
+    "sectionTitle": "BERT Architecture Deep Dive",
+    "filename": "m14-f2-b0.ipynb"
+  },
+  {
+    "module": "m14",
+    "section": "m14-fl1",
+    "blockIndex": 0,
+    "sectionTitle": "Build: Masked Language Model",
+    "filename": "m14-fl1-b0.ipynb"
+  },
+  {
+    "module": "m15",
+    "section": "m15-fl1",
+    "blockIndex": 0,
+    "sectionTitle": "Build: Mini GPT Language Model",
+    "filename": "m15-fl1-b0.ipynb"
+  },
+  {
+    "module": "m16",
+    "section": "m16-e1",
+    "blockIndex": 0,
+    "sectionTitle": "Tokenization: BPE, SentencePiece, and Why It Matters",
+    "filename": "m16-e1-b0.ipynb"
+  },
+  {
+    "module": "m16",
+    "section": "m16-f1",
+    "blockIndex": 0,
+    "sectionTitle": "Instruction Tuning: From Base Model to Assistant",
+    "filename": "m16-f1-b0.ipynb"
+  },
+  {
+    "module": "m16",
+    "section": "m16-f2",
+    "blockIndex": 0,
+    "sectionTitle": "Mixture of Experts and Reasoning Models",
+    "filename": "m16-f2-b0.ipynb"
+  }
+]
